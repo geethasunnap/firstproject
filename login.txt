@@ -1,2 +1,2 @@
 This is my first file
-i am modifyig some content in this file
+i am comparing some content in this file
